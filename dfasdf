@@ -1,0 +1,11 @@
+diff --git a/README b/README
+index 3918fac..034dd60 100644
+--- a/README
++++ b/README
+@@ -1,2 +1,6 @@
+ Yet another talk about FOSS and Entrepreneurship
+ Presented at : RajasFOSS : A foss event at Linux users group, Bikaner [ LUGB ]
++
++This talk was prepared for college students, who are interested in open source model of development, they also have crazy ideas, but as usual they don't have any clue where to start from. This talk was intended to flush out all misconception they had about FOSS and the money oriented part of it.
++Speaker also talks with students with an eye-opening attitude about the liberal, exposed model of entrepreneurship which is being fueled by Open Source Softwares, and how web startups and upcoming technologies based on open source model are becoming disruptive in both enterprise and academic environment.
++
