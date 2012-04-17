@@ -1,0 +1,287 @@
+RajasFOSS presentation transcript
+
+Title
+
+FOSS Has something to do,
+An idea hacking talk,
+Use it and make the real use of your priceless time you have !
+
+Preface
+
+( This transcript is just a way of organizing talk, what I would speak is really a matter of timing )
+
+Good afternoon everyone , my talk is about a real bunch of ideas I can give you, a really smart ones, practical ones, those has everything to do with practical ideas and practical word, what we call : The smart part6.
+
+I give you the idea how talk is organized :
+
+( Just read titles, don't pull the inside thing )
+
+The plunge part : 
+0. Psychology of things, and why it matters 
+1. I would start with asking a question to you
+2. The problem of levels 
+
+The motivation part:
+3. If you guys want to do really good, then how foss comes here and How it works
+4. Alright, who is doing open source ? Case studies ! The biggies 
+5. How simple ideas are and how powerful their impact is ! Case studies ! One man army 
+
+The awakening part:
+6. How to start ?
+7. Start solving problems and get familiar with stuffs you really care about
+8. Free is about freedom, freedom is about greatness and great things are $$$ 
+9. Solving complex problems isn't enough
+10. What is the cost to start
+11. The last word
+
+Who the hell I am : my name is Paras Kuhad. Coincidentally I am from the same college, from which you are. I graduated back in year 2010, I dumped infosys for my own startup with ShreeKant Bohra. We developed a social networking Iddhis : a private space for couples, later turned into closest.in : a google plus like thing before google plus
+We are not working on this social stuff now, 
+Now I work on drupal and django web projects, I play with massive data each day, I process and distribute them with simple algorithms, and I read a lot.
+
+
+The plunge part : 
+
+0. Psychology of things, and why it matters 
+
+Psychology is a misunderstood word here, I am talking about our general mapping, how we think about things
+
+Psychology :  How it matters : 
+That's how billions of facebook likes are generated each day
+That's how billions of tweets are generated each day
+That's how you share facebook pictures about things which frustrates you, your governments , your leaders
+That's how you write your sentiments on social networks and like pages which are either funny or either talk about 'heart touching' sentiments
+That's how you show off yourself on social networks 
+That's why you stay awake late night on gmail chat ( laugh )
+May be that's why you think that being here in college means we can't do something or sort of those things
+
+So Psychology is about pre-thoughts / meta-thoughts about things.
+Its all about the reluctance which stops you going for 'the smart part' of thing which is responsible for getting things done.
+
+"Life is an evolving process,
+The greatest part which inspires us is philosophy and the smart part which really works is practicality.
+And in between them there are lots of lines and sharp edges made up of obligations, prejudices, instincts, society, kind of infrastructure we have, number and thickness of boilerplates we need to face and passion to hold them"
+
+So I want you to do one thing, I want you to empathize with my thoughts, you need to forget each and everything you know already, you have already. I just want you to flush out all psychology you have about things and start building a new thing here, at least during this session. Revert back fully if you want , to whatever you had before this talk. 
+
+
+
+1. I would start with asking a question to you
+
+[ troll pic ]
+
+Are you guys really doing good ?
+
+[ student -> donkey ] picture ?
+
+good in the sense, you have some ideas, you want to make some change, if not then let us make an assumption you want,
+everybody wants, everybody wants to be authoritative in some sense, in a skill which he likes to do
+
+also being in this college, or under this university or having such syllabus and study mechanisms 
+which only teaches you classical with killing your creativity without any practical orientation. 
+May be you even study them just to get over some threshold so that you would be able to sit in aptitude exams at placement time.
+Is only that thing you are studying, or you have your own thoughts ?
+If yes, then you have some ideas ?
+If yes, then why don't start working on them right now ?
+Are you doing good ?
+
+Are you waiting for the right to come then it is not going to come [ explanation ]
+You will have to leave your comfortable zone, you will have to stop complaining, it is easy to do that, but it is hard to make something. [explanation]
+
+
+2. The problem of levels 
+
+Alright,
+Everything is fine, we want to do good 
+then the biggest justification that can stop us is : This is not my level
+'this is not something which I am supposed to do'
+
+How about that :
+: lady-gaga
+
+: Sir Knuth and other pics
+
+Mark zuckerbug , " The squirrel dying in your porch / yard can be more relevant than people dying in Africa "  : From a ted talk , Eric Parsier 
+So,
+if you are only considered about that squirrel, it means that is your context, 
+you know more about that, not about reasons why people and children in India are dying from hunger.
+
+Conclusion : We really care about things which really interests, or we are really interested in
+So the problem of level is a fake problem
+this is a straight forward excuse made by you and made for you.
+
+The only thing which matters is how long you be with one problem, how passionate you are about it 
+how deeply you want to solve it
+So wouldn't it be great if you work with your interests ! 
+
+
+The motivation part:
+
+3. If you guys want to do really good, then how foss comes here and How it works
+
+II year, I wrote one c program that searches your file system for a file
+I knew one guy who could better than me
+I was pretty sure that if I can have a look on his code, 
+I can do better,
+See, I have my best ideas, but I also want his better ideas to make my things best 
+
+This analogy is like,
+I show you some magic trick and ask you to pick one card,
+and I instantly tell you which was it
+if you are under the level of smartness threshold you would instantly ask me how I did it
+
+suppose I tell you how i did it,
+its like : you have your own magic tricks , those are best in the world
+now you know my magic trick as well :
+So You are the best magician now !
+
+So this is how foss works, you wrote some piece of code or in more general you build something,
+you want to tell people how great it is
+you want to figure out, what great use cases can evolve out of your project, 
+you never know somebody can use your project, an organization ? and ask you to work more on this , and they fund you
+
+Code is shared to make it more awesome to make it more usable to make it such so that more and more people can use it and only credit goes to you.
+and at the end of the day : this is fun
+and more fun if you can make money.
+
+The kind of work you have done, and if you are showcasing them, this is your resume.
+
+In the same way the greatest wisdom of this earth has been exposed on internet 
+We study open source every day, we study shared wisdom
+We use open source everyday
+Internet's backbone is open source
+
+
+4. Alright, who is doing open source ? Case studies ! The biggies 
+
+Who not ?
+
+Everybody is using open source,
+On internet greatest things are built upon open source
+Even companies like facebook opens up their code to people , to smart people who can lurk into their code, and make it more cool
+Reddit is open source that means you can have your own reddit
+All greatest web frameworks are open source 
+The operating system on which most of the internet works is built upon : open source 
+Even companies who commercialize their stuffs uses open source : For example Mac os kernel is built upon linux kernel 
+You can even kickstart your biggest project at the base of already built open source technologies 
+I can go on and on :
+
+Future is open source 
+
+
+5. How simple ideas are and how powerful their impact is ! Case studies ! One man army 
+
+This is also not about big companies.
+Simple ideas have more great impact in open source.
+If you solve one problem which is pain point of almost everyone, You are a rockstar !!
+
+Memcached : Caching system
+Jquery : Awesome javascript library 
+Sahana Disaster Management system
+Linux was a fun project , now red hat is 1 billion dollar company
+Drupal -> Acquia
+
+Even simpler ideas in nature has more impact 
+
+1000memories.com
+reddit
+
+talk about iddhis : How you made the impact 
+
+Twitter is how simple in nature and how it solves a big problem.
+Twitter has the power to aggregate world with instant reaction 
+
+[twitter-picture]
+
+
+
+The awakening part:
+
+6. How to start ?
+You will have to figure out what problem you want to work on.
+Learning things without a target doesn't make sense
+You learn a stuff while doing it, 
+
+You don't want to think too big from the first day
+beautiful things are simple in nature
+Starts from simple things
+
+[krug] [design of everday things]
+
+Lurk into community things, those are similar to your passion.
+Use their experience, and already shared wisdom
+don't re-invent the wheel, make genuine things 
+
+
+7. Start solving problems and get familiar with stuffs you really care about
+If you have some idea then what you are waiting for ?
+
+A training ?
+
+Everything you need is out there.
+In fact most of the problem you think about are already solved
+
+but then there are others.
+
+What you learn when you are solving one problem :
+you learn about others
+
+Jquery was written because the inventor has some problem with javascript while working on his startup
+Linus is a human being, but he solves what he think , it sucks
+That's the attitude you need
+
+Lead your tribe : Seth Godin
+
+Give two practical examples :
+
+Lean startup : Eric Ries way [explain]
+Amazon EC2 : just pay for what you compute, save bucks and purchase one and start experimenting [explain]
+Make a small team, connect your servers and play with distributive computing [explain, how easy is that]
+
+8. Free is about freedom, freedom is about greatness and great things are $$$ 
+
+Common Misconception :
+
+Free is not about $$
+Free is ton about $$
+
+Money != Creativity : you can end up filling excel worksheets with B Tech
+but ,
+
+Creativity = Money
+Creativity = Hell lot of money !
+
+Latest example : Instagram, a fun thing , made in django, huge loyal social network followers : sold with 1 billion Dollar 
+
+And what you need : Taste of execution, start doing that thing from today, solve real world problems, make hell lot of money
+
+You had stuffs in your portfolio
+you start doing thing right from here
+you have some idea you can execute that with the help of FOSS, and what's the cost : practically zero dollars
+
+yum install httpd
+service httpd start 
+
+Linus works on kernel because world wants to work him upon this project
+Linus is a poster boy in this context, there are many many other similar guys doing these things.
+Angie Byron : Gsoc -> Now maintainer @ Drupal core [ Talk about women in open source, entrepreneurs  ]
+how creativity can solve others painful points [explain]
+
+
+9. Solving complex problems isn't enough
+
+You have to have a use case, Its fun doing things you love, 
+but if you want to make a real world impact you have to have a use case
+Make something which is useful
+Other people can use it. [explain, talk about lean startup, with an example of bottom to approach strategy, find a target audience first, validate your market first ]
+Keep asking yourself when you are upto something : why I am doing , why I am doing that
+
+10. The last word
+
+You need to be creative,
+You need to think out of the box,
+You need to learn state of the art,
+You need to learn what already is there,
+Things which are great, are easy , but they take some time,
+Overnight success means there has been a great work behind that
+
+
